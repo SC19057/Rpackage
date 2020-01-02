@@ -2,3 +2,4 @@
 
 export(indTest)
 export(knnde)
+importFrom(stats,qnorm)

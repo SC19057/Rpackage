@@ -9,7 +9,7 @@ Description: Two R functions are involved in the package. One is used to compute
              and the other is used to test indenpence under kernel density estimation and bootstap method. Besides, to use 
              these functions, make sure you've installed R_package "FNN" and "kedd".
 License: GPL (>= 2)
-Imports: Rcpp (>= 0.12.16), microbenchmark, knitr, rmarkdown
+Imports: knitr, rmarkdown, FNN, kedd
 LinkingTo: Rcpp
 RoxygenNote: 7.0.2
 Suggests: knitr, rmarkdown
